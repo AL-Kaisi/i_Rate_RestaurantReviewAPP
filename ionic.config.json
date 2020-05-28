@@ -1,0 +1,8 @@
+{
+  "name": "resRate",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

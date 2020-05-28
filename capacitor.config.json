@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "resRate",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
